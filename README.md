@@ -8,7 +8,7 @@
 	</a>
 </p>
 
-Graduate from University of Toronto with a Double Major in Math and Stats and Minor in Computer Science. Passionate about Data Analytics and Data Science. 
+I'm a graduate of the University of Toronto with a Double Major in Mathematics and Statistics, and a Minor in Computer Science. With a strong foundation in these fields, I am deeply passionate about data analytics and data science, constantly exploring ways to extract meaningful insights from complex data sets. As a self-motivated professional, I thrive on tackling challenges and finding solutions through data. Whether it's analyzing trends, building models, or deriving actionable insights, I am dedicated to helping businesses leverage data to drive informed decisions.
 
 ## ⚡ Tech Stack
 
